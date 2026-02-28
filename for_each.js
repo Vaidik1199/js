@@ -33,3 +33,6 @@ let arr3 = ["mumbai", "Delhi", "PuNe"];
 arr3.forEach((val)=> {
     console.log(val.toUpperCase());
 });
+
+
+// after this i will not save anything 
