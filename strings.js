@@ -6,8 +6,8 @@ let str2 = "VivRichards";
 
 str.length;
 
-console.log(str[0], str[1]);
-console.log(str2[4]);
+console.log(str[0], str[2]);  // v i 
+console.log(str2[4]);         //i
 
 // template litereals
 
