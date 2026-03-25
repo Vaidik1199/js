@@ -1,4 +1,4 @@
-// day 3 code 1 video 3
+// day 3 code 2 video 3
 
 let gameNum = 25;
 
