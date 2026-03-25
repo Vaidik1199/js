@@ -50,3 +50,16 @@ This repository contains my step-by-step JavaScript learning journey including n
 - 🔗 [practice3vid3.js](./practice3vid3.js)
 
 ---
+
+### 📄 8. JavaScript Notes (JS4)
+- 📘 <a href="./notes%20of%20js/JS4%20ClassNotes.pdf" target="_blank">JS3 Class Notes (PDF)</a>
+
+---
+
+### 🔁 9. Loops & Strings
+- 🔗 [arrays.js](./arrays.js)
+- 🔗 [practice1day4.js](./practice1day4.js)
+- 🔗 [practice2day4.js](./practice2day4.js)
+- 🔗 [practice3day4.js](./practice3day4.js)
+
+---
