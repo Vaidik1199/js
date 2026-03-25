@@ -63,3 +63,14 @@ This repository contains my step-by-step JavaScript learning journey including n
 - 🔗 [practice3day4.js](./practice3day4.js)
 
 ---
+
+### 📄 10. JavaScript Notes (JS5)
+- 📘 <a href="./notes%20of%20js/JS5%20ClassNotes.pdf" target="_blank">JS3 Class Notes (PDF)</a>
+
+---
+
+### 🔁 11. Functions and methods
+- 🔗 [functions.js](./func_meth/functions.js)
+- 🔗 [Q1.js](./func_meth/Q1.js)
+- 🔗 [Q2.js](./func_meth/Q2.js)
+- 🔗 [for_each.js](./func_meth/for_each.js)
