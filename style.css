@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+}
+
+h1{
+    color: rgb(20, 20, 49);
+    text-decoration-line:underline;
+    background-color: rgb(246, 246, 111);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+button{
+    background-color: rgb(246, 246, 111);
+    color: rgb(20, 20, 49);
+}
