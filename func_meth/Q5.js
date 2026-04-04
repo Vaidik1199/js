@@ -7,3 +7,19 @@ for(let i = 0; i<n; i++){
 }
 
 console.log(arr);
+
+// another question
+let Addition = arr.reduce( (prev, curr) => {
+    return prev+curr;
+})
+
+console.log(Addition);
+
+// another question 
+// nothing but the factorial of n
+
+let Multiplication = arr.reduce( (prev, curr) => {
+    return prev*curr;
+})
+
+console.log(Multiplication);
