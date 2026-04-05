@@ -65,3 +65,77 @@ console.dir(allelements);
 // for getting by class by using queryselector we should use ".classname" that is it.
 
 // we will see properties later tommorow or after two three days
+
+// -----------------------------------------------------------------------
+
+
+
+
+//HomeWork 
+
+// Firstchild
+// Lastchild 
+// children 
+// siblings
+
+// Three types of node
+// Text
+// Coment
+// element
+
+
+
+
+// --------------------------------------------------------------------
+
+
+
+
+// Properties
+
+// TagName : returns tag for element  nodes
+
+// -----------------------------------------------
+// InnerText : returns a text content of the element and all its children
+// ex, div.innerText 
+// it will return text with \n like 
+//  'Fruits\nmango\noragne'
+
+// -----------------------------------------------
+
+
+// ex. div.innerHTML
+// It will return tags like 
+// \n <h3> Fruits</h3>\n <ul>\n .... li mango etc etc
+
+//  In both of the example we only get the info 
+
+//  we can set info like 
+// div.innerTex = "abcd";
+//  it will change the entire text, will remove all the code tags:)
+
+
+//  same for innerHTML
+// div.innerHTML = "<div> inner div</div>"
+// it will create impact directly
+
+// This changes are called dynamic
+
+// ------------------------------------------------
+
+// TextContent : returns textual content even for hidden elements
+
+
+// ---------------------------------------------------
+let h2 = document.querySelector("h2");
+
+
+h2.innerText = h2.innerText+  " From Vaidik HC";
+console.dir(h2.innerText);
+
+let eww = document.getElementsByClassName("divsss");
+let idx = 1;
+for(div of eww){
+    div.innerText = "new unique value "+ idx;
+    idx++;
+}
