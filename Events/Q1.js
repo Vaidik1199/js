@@ -16,3 +16,20 @@ shifter.addEventListener("click",()=> {
     }
     console.log(curMode);
 })
+
+
+// we can do this via two diff classes
+// shifter.addEventListener("click",()=> {
+//     if(curMode==="Light"){
+//         curMode="Dark";
+//         document.querySelector("body").classList.add("dark");
+//         document.querySelector("body").classList.remove("light");
+
+//     } else {
+//         curMode = "Light";
+//         document.querySelector("body").classList.add("light");
+//         document.querySelector("body").classList.remove("dark");
+//         
+//     }
+//     console.log(curMode);
+// })

@@ -11,3 +11,14 @@ div{
     background-color: black;
     color: white;
 }
+
+/* we can change modes via two diff classes like
+.dark{
+bgc: black;
+clr: white;
+}
+.light{
+bgc:white;
+clr:black;
+}
+*/
