@@ -7,14 +7,19 @@ const student ={
 };
 
 const employee = {
-    calcTax1() {
-        console.log("tax rate is 10%");
-    },
-    calcTax2 : function () {
+    calcTax() {
         console.log("tax rate is 10%");
     },
 };
 
 const karanArjun  = {
-    salary : 
-}
+    salary : 50000,
+    calcTax() {
+        console.log("tax rate is 20%");
+    },
+};
+
+karanArjun.__proto__ = employee;
+
+// if objects and prototypes have same method
+// object's method will be used
